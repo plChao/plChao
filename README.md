@@ -1,4 +1,11 @@
-### Hi there 👋
+### 趙秉濂
+#### 專案
+* [低耗電 MAC (Multiply Accumulate) 設計](https://github.com/plChao/digital-circuit-final-project.git)
+  * 數位電路專題
+  * 在組負責驗證路正確性
+* [台灣屋實價登錄查詢網站]
+  * 資料庫概論的⼩組專題
+
 
 <!--
 **plChao/plchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
